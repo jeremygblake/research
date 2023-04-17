@@ -1,0 +1,16 @@
+- witness server:
+  a witness server is required on seperate server then the default primary to identify a difference between network and node issues.
+  
+  
+  
+  
+  
+  found this information
+    ## @param postgresql.repmgrFenceOldPrimary Set if fencing of old primary in multiple primary situation is desired
+    
+    
+    primary registration
+    https://repmgr.org/docs/4.3/repmgr-primary-register.html
+    
+    register witness server
+    https://repmgr.org/docs/4.3/repmgr-witness-register.html
