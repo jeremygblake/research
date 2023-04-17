@@ -14,3 +14,10 @@
     
     register witness server
     https://repmgr.org/docs/4.3/repmgr-witness-register.html
+
+
+
+
+PR for split brain solution 
+https://github.com/bitnami/charts/pull/9035
+https://github.com/bitnami/charts/pull/9192
